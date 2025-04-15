@@ -1,5 +1,7 @@
 # SuperCollider MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@Synohara/supercollider-mcp)](https://smithery.ai/server/@Synohara/supercollider-mcp)
+
 The SuperCollider MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server for the SuperCollider programming language that allows to execute synth using supercolliderjs.
 
 ## Prerequisites
@@ -12,6 +14,14 @@ The SuperCollider MCP Server is a [Model Context Protocol (MCP)](https://modelco
 This project has been tested and confirmed to work only on macOS with Apple Silicon (M1) processors. Compatibility with other operating systems or processor architectures has not been verified.
 
 ## Installation
+
+### Installing via Smithery
+
+To install SuperCollider Synth Executor for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Synohara/supercollider-mcp):
+
+```bash
+npx -y @smithery/cli install @Synohara/supercollider-mcp --client claude
+```
 
 ### Usage with Claude Desktop
 
