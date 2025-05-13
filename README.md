@@ -2,6 +2,10 @@
 
 The SuperCollider MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server for the SuperCollider programming language that allows to execute synth using supercolliderjs.
 
+<a href="https://glama.ai/mcp/servers/@Synohara/supercollider-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Synohara/supercollider-mcp/badge" alt="supercollider-mcp MCP server" />
+</a>
+
 ## Prerequisites
 
 1. Install [SuperCollider](https://supercollider.github.io/downloads) on your machine.
