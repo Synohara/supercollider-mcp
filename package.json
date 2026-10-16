@@ -26,7 +26,7 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@types/node": "^22.14.1",
+    "@types/node": "^24.0.0",
     "typescript": "^5.8.3",
     "vitest": "^3.1.1"
   }
